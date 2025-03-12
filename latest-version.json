@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.1.1",
-  "downloadUrl": "https://artwiz.com/download",
-  "releaseNotes": "Fix bugs and improve performance."
+  "version": "1.0.0.9",
+  "downloadUrl": "https://github.com/TrdHuy/ArtWiz/releases/download/product_v1.0.0.9/ArtWiz.rar",
+  "releaseNotes": "First release."
 }
